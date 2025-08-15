@@ -31,7 +31,9 @@ A modern and fully responsive plant store website built using HTML, CSS, and Jav
 
 ## 🙋‍♀ Author
 
-*Richa Chaudhary*  
+*Richa Chaudhary*  🔗 LinkedIn | https://www.linkedin.com/in/richa-chaudhary-360b8a315
+
+
 
 
 ---
