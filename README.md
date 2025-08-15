@@ -39,5 +39,4 @@ A modern and fully responsive plant store website built using HTML, CSS, and Jav
 ## 📄 License
 
 This project is licensed under the *MIT License*.
-(Replace with your GitHub Pages or hosting URL)
 
