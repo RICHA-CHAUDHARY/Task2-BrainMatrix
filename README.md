@@ -8,7 +8,6 @@ A modern and fully responsive plant store website built using HTML, CSS, and Jav
 
 ✅ Fully responsive layout (Mobile, Tablet, Desktop)  
 🖼 Product cards with hover effects and clean design  
-🎯 Scroll-based animations using ScrollReveal.js  
 💻 Clean, semantic HTML structure  
 🌱 Lightweight and fast-loading with no heavy frameworks  
 
